@@ -3,6 +3,7 @@
  
 # How to Setup
 Install all the necessary libraries <br>
+Python version - Python 3.10.11 <br>
 $ pip install logging <br/>
 $ pip install dotenv <br/>
 $ pip install telebot <br/>
