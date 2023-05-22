@@ -10,10 +10,13 @@ $ pip install telebot <br/>
 
 ## Installation 
 Clone the repository <br>
-$ git clone [ URL ]  <br>
+$ git clone https://github.com/jaigudesahil/python-telegram-chatbot.git <br>
 $ cd python-telegram-chatbot <br>
 
-## Add your API keys in .env file 
+## Add your API keys in .env file <br>
+BOT_API_KEY= [your telegram bot api key]<br>
+OPENAI_API_KEY= [your openai api key]<br>
+USER_KEY= [ypur telegram user key]<br>
 
 
 
